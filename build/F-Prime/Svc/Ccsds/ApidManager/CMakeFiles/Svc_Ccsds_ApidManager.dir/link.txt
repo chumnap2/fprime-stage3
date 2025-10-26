@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ccsds_ApidManager.a CMakeFiles/Svc_Ccsds_ApidManager.dir/ApidManager.cpp.o CMakeFiles/Svc_Ccsds_ApidManager.dir/ApidManagerComponentAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ccsds_ApidManager.a

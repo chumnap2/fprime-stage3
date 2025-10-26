@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libFw_DataStructures.a CMakeFiles/Fw_DataStructures.dir/DataStructures.cpp.o CMakeFiles/Fw_DataStructures.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libFw_DataStructures.a

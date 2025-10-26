@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_FprimeProtocol.a CMakeFiles/Svc_FprimeProtocol.dir/FrameHeaderSerializableAc.cpp.o CMakeFiles/Svc_FprimeProtocol.dir/FrameTrailerSerializableAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_FprimeProtocol.a

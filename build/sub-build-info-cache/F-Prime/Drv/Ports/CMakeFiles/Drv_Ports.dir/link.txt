@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libDrv_Ports.a CMakeFiles/Drv_Ports.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libDrv_Ports.a

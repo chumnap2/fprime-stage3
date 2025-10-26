@@ -1,0 +1,4 @@
+/home/chumnap/fprime/Fw/Cmd/Cmd.fpp
+/home/chumnap/fprime/Fw/Log/Log.fpp
+/home/chumnap/fprime/Fw/Prm/Prm.fpp
+/home/chumnap/fprime/Svc/Ping/Ping.fpp

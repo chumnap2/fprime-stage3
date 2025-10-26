@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_File_Posix_Implementation.a CMakeFiles/Os_File_Posix_Implementation.dir/File.cpp.o CMakeFiles/Os_File_Posix_Implementation.dir/FileSystem.cpp.o CMakeFiles/Os_File_Posix_Implementation.dir/Directory.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_File_Posix_Implementation.a

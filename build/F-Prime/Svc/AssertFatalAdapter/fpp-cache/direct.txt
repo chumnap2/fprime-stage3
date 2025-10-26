@@ -1,0 +1,3 @@
+/home/chumnap/fprime/Fw/Log/Log.fpp
+/home/chumnap/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi
+/home/chumnap/fprime/build/F-Prime/default/config/AcConstants.fpp

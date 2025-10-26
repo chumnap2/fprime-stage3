@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_Memory_Linux_Implementation.a CMakeFiles/Os_Memory_Linux_Implementation.dir/Memory.cpp.o CMakeFiles/Os_Memory_Linux_Implementation.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_Memory_Linux_Implementation.a

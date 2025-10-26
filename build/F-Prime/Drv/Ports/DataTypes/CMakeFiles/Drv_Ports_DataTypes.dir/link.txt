@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libDrv_Ports_DataTypes.a CMakeFiles/Drv_Ports_DataTypes.dir/DataBuffer.cpp.o CMakeFiles/Drv_Ports_DataTypes.dir/DataBufferPortAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libDrv_Ports_DataTypes.a

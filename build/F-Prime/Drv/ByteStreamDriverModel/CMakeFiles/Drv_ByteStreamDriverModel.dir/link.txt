@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libDrv_ByteStreamDriverModel.a CMakeFiles/Drv_ByteStreamDriverModel.dir/ByteStreamDataPortAc.cpp.o CMakeFiles/Drv_ByteStreamDriverModel.dir/ByteStreamReadyPortAc.cpp.o CMakeFiles/Drv_ByteStreamDriverModel.dir/ByteStreamSendPortAc.cpp.o CMakeFiles/Drv_ByteStreamDriverModel.dir/ByteStreamStatusEnumAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libDrv_ByteStreamDriverModel.a

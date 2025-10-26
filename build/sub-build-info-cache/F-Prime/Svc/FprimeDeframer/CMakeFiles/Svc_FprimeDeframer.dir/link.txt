@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_FprimeDeframer.a CMakeFiles/Svc_FprimeDeframer.dir/FprimeDeframer.cpp.o CMakeFiles/Svc_FprimeDeframer.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_FprimeDeframer.a

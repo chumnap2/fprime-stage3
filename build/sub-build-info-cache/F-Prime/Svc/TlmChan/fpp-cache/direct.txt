@@ -1,0 +1,4 @@
+/home/chumnap/fprime/Fw/Com/Com.fpp
+/home/chumnap/fprime/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime/Svc/Ping/Ping.fpp
+/home/chumnap/fprime/Svc/Sched/Sched.fpp

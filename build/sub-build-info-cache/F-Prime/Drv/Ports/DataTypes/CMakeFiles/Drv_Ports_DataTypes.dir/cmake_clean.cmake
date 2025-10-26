@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "../../../../lib/Linux/libDrv_Ports_DataTypes.a"
+  "../../../../lib/Linux/libDrv_Ports_DataTypes.pdb"
+  "CMakeFiles/Drv_Ports_DataTypes.dir/DataBuffer.cpp.o"
+  "CMakeFiles/Drv_Ports_DataTypes.dir/DataBuffer.cpp.o.d"
+  "CMakeFiles/Drv_Ports_DataTypes.dir/__/__/__/cmake/empty.cpp.o"
+  "CMakeFiles/Drv_Ports_DataTypes.dir/__/__/__/cmake/empty.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Drv_Ports_DataTypes.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

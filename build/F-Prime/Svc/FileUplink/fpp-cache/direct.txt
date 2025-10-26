@@ -1,0 +1,8 @@
+/home/chumnap/fprime/Fw/Buffer/Buffer.fpp
+/home/chumnap/fprime/Fw/Log/Log.fpp
+/home/chumnap/fprime/Fw/Time/Time.fpp
+/home/chumnap/fprime/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime/Svc/FileUplink/Events.fppi
+/home/chumnap/fprime/Svc/FileUplink/Telemetry.fppi
+/home/chumnap/fprime/Svc/Ping/Ping.fpp
+/home/chumnap/fprime/build/F-Prime/default/config/ComCfg.fpp

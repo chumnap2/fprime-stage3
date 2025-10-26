@@ -1,0 +1,7 @@
+/home/chumnap/fprime/Fw/Dp/Dp.fpp
+/home/chumnap/fprime/Svc/ComLogger/ComLogger.fpp
+/home/chumnap/fprime/Svc/ComSplitter/ComSplitter.fpp
+/home/chumnap/fprime/Svc/Subtopologies/ComLoggerTee/subtopology-template.fppi
+/home/chumnap/fprime/build/F-Prime/Svc/Subtopologies/ComLoggerTee/ComLoggerTeeConfig/ComLoggerTeeConfig.fpp
+/home/chumnap/fprime/build/F-Prime/default/config/ComCfg.fpp
+/home/chumnap/fprime/build/F-Prime/default/config/DpCfg.fpp

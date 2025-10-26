@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_DpWriter.a CMakeFiles/Svc_DpWriter.dir/DpWriter.cpp.o CMakeFiles/Svc_DpWriter.dir/DpWriterComponentAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_DpWriter.a

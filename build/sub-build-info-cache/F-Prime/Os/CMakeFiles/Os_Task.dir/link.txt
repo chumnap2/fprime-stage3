@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libOs_Task.a CMakeFiles/Os_Task.dir/Task.cpp.o CMakeFiles/Os_Task.dir/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libOs_Task.a

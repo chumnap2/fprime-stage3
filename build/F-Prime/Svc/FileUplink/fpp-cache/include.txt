@@ -1,0 +1,2 @@
+/home/chumnap/fprime/Svc/FileUplink/Events.fppi
+/home/chumnap/fprime/Svc/FileUplink/Telemetry.fppi

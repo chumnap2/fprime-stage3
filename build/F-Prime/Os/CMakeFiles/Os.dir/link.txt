@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libOs.a CMakeFiles/Os.dir/ValidateFileCommon.cpp.o CMakeFiles/Os.dir/ValidatedFile.cpp.o CMakeFiles/Os.dir/IntervalTimer.cpp.o CMakeFiles/Os.dir/Os.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libOs.a

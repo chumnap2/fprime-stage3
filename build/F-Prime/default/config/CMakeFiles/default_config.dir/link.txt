@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libdefault_config.a CMakeFiles/default_config.dir/ApidEnumAc.cpp.o CMakeFiles/default_config.dir/FppConstantsAc.cpp.o CMakeFiles/default_config.dir/FrameContextSerializableAc.cpp.o CMakeFiles/default_config.dir/PolyDbEntryEnumAc.cpp.o CMakeFiles/default_config.dir/ProcTypeEnumAc.cpp.o CMakeFiles/default_config.dir/TimeBaseEnumAc.cpp.o CMakeFiles/default_config.dir/VersionEnumEnumAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libdefault_config.a

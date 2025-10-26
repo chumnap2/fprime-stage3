@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ccsds_Ports.a CMakeFiles/Svc_Ccsds_Ports.dir/ApidSequenceCountPortAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ccsds_Ports.a

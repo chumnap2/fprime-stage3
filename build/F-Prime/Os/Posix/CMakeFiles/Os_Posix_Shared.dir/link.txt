@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_Posix_Shared.a CMakeFiles/Os_Posix_Shared.dir/error.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_Posix_Shared.a

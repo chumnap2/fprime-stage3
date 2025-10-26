@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ccsds_Types.a CMakeFiles/Svc_Ccsds_Types.dir/FppConstantsAc.cpp.o CMakeFiles/Svc_Ccsds_Types.dir/SpacePacketHeaderSerializableAc.cpp.o CMakeFiles/Svc_Ccsds_Types.dir/TCHeaderSerializableAc.cpp.o CMakeFiles/Svc_Ccsds_Types.dir/TCTrailerSerializableAc.cpp.o CMakeFiles/Svc_Ccsds_Types.dir/TMHeaderSerializableAc.cpp.o CMakeFiles/Svc_Ccsds_Types.dir/TMTrailerSerializableAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ccsds_Types.a

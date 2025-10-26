@@ -1,0 +1,6 @@
+/home/chumnap/fprime/Drv/Interfaces/ByteStreamDriver.fpp
+/home/chumnap/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/chumnap/fprime/Drv/LinuxUartDriver/Telemetry.fppi
+/home/chumnap/fprime/Fw/Log/Log.fpp
+/home/chumnap/fprime/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime/Svc/Sched/Sched.fpp

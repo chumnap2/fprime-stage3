@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libFw_Time.a CMakeFiles/Fw_Time.dir/Time.cpp.o CMakeFiles/Fw_Time.dir/TimeInterval.cpp.o CMakeFiles/Fw_Time.dir/TimeIntervalPortAc.cpp.o CMakeFiles/Fw_Time.dir/TimeIntervalValueSerializableAc.cpp.o CMakeFiles/Fw_Time.dir/TimePortAc.cpp.o CMakeFiles/Fw_Time.dir/TimeValueSerializableAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libFw_Time.a

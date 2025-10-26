@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_ChronoTime.a CMakeFiles/Svc_ChronoTime.dir/ChronoTime.cpp.o CMakeFiles/Svc_ChronoTime.dir/ChronoTimeComponentAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_ChronoTime.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_FprimeRouter.a CMakeFiles/Svc_FprimeRouter.dir/FprimeRouter.cpp.o CMakeFiles/Svc_FprimeRouter.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_FprimeRouter.a

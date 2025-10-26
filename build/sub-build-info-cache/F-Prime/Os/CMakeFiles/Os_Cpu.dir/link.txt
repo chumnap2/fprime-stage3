@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libOs_Cpu.a CMakeFiles/Os_Cpu.dir/Cpu.cpp.o CMakeFiles/Os_Cpu.dir/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libOs_Cpu.a

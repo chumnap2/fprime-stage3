@@ -1,0 +1,1 @@
+#define CH_LICENSE_CHECK 0

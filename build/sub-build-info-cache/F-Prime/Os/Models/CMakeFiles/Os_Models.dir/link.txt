@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_Models.a CMakeFiles/Os_Models.dir/Models.cpp.o CMakeFiles/Os_Models.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_Models.a

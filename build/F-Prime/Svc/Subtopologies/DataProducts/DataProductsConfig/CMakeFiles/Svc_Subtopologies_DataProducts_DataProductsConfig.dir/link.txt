@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../lib/Linux/libSvc_Subtopologies_DataProducts_DataProductsConfig.a CMakeFiles/Svc_Subtopologies_DataProducts_DataProductsConfig.dir/DataProductsSubtopologyConfig.cpp.o CMakeFiles/Svc_Subtopologies_DataProducts_DataProductsConfig.dir/FppConstantsAc.cpp.o
+/usr/bin/ranlib ../../../../../lib/Linux/libSvc_Subtopologies_DataProducts_DataProductsConfig.a

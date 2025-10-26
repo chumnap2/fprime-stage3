@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ports_VersionPorts.a CMakeFiles/Svc_Ports_VersionPorts.dir/VersionPortAc.cpp.o CMakeFiles/Svc_Ports_VersionPorts.dir/VersionStatusEnumAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ports_VersionPorts.a

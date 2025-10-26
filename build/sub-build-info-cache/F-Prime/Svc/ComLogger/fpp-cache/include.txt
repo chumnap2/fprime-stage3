@@ -1,0 +1,2 @@
+/home/chumnap/fprime/Svc/ComLogger/Commands.fppi
+/home/chumnap/fprime/Svc/ComLogger/Events.fppi

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_Version.a CMakeFiles/Svc_Version.dir/Version.cpp.o CMakeFiles/Svc_Version.dir/CustomVersionDbSerializableAc.cpp.o CMakeFiles/Svc_Version.dir/VersionComponentAc.cpp.o CMakeFiles/Svc_Version.dir/VersionEnabledEnumAc.cpp.o CMakeFiles/Svc_Version.dir/VersionTypeEnumAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_Version.a

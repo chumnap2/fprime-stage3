@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ccsds_TcDeframer.a CMakeFiles/Svc_Ccsds_TcDeframer.dir/TcDeframer.cpp.o CMakeFiles/Svc_Ccsds_TcDeframer.dir/__/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ccsds_TcDeframer.a

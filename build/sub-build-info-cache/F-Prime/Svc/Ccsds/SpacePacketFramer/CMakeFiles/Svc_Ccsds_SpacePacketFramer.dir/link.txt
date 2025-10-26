@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ccsds_SpacePacketFramer.a CMakeFiles/Svc_Ccsds_SpacePacketFramer.dir/SpacePacketFramer.cpp.o CMakeFiles/Svc_Ccsds_SpacePacketFramer.dir/__/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ccsds_SpacePacketFramer.a

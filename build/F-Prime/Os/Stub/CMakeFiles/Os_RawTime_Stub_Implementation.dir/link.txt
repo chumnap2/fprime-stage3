@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_RawTime_Stub_Implementation.a CMakeFiles/Os_RawTime_Stub_Implementation.dir/RawTime.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_RawTime_Stub_Implementation.a

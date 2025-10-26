@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ports_OsTimeEpoch.a CMakeFiles/Svc_Ports_OsTimeEpoch.dir/OsTimeEpochPortAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ports_OsTimeEpoch.a

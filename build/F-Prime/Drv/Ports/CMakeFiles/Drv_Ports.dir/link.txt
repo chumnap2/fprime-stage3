@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libDrv_Ports.a CMakeFiles/Drv_Ports.dir/GpioReadPortAc.cpp.o CMakeFiles/Drv_Ports.dir/GpioStatusEnumAc.cpp.o CMakeFiles/Drv_Ports.dir/GpioWritePortAc.cpp.o CMakeFiles/Drv_Ports.dir/I2cPortAc.cpp.o CMakeFiles/Drv_Ports.dir/I2cStatusEnumAc.cpp.o CMakeFiles/Drv_Ports.dir/I2cWriteReadPortAc.cpp.o CMakeFiles/Drv_Ports.dir/SpiReadWritePortAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libDrv_Ports.a

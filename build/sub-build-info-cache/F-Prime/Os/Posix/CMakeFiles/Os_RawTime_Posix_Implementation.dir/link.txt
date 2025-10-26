@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_RawTime_Posix_Implementation.a CMakeFiles/Os_RawTime_Posix_Implementation.dir/RawTime.cpp.o CMakeFiles/Os_RawTime_Posix_Implementation.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_RawTime_Posix_Implementation.a

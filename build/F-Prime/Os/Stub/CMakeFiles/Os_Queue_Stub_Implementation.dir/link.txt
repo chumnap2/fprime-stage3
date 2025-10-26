@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_Queue_Stub_Implementation.a CMakeFiles/Os_Queue_Stub_Implementation.dir/Queue.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_Queue_Stub_Implementation.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_DpManager.a CMakeFiles/Svc_DpManager.dir/DpManager.cpp.o CMakeFiles/Svc_DpManager.dir/DpManagerComponentAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_DpManager.a

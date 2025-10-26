@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_ActivePhaser.a CMakeFiles/Svc_ActivePhaser.dir/ActivePhaser.cpp.o CMakeFiles/Svc_ActivePhaser.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_ActivePhaser.a

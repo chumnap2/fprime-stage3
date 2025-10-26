@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libFw_Sm.a CMakeFiles/Fw_Sm.dir/SmSignalBuffer.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libFw_Sm.a

@@ -1,0 +1,3 @@
+/home/chumnap/fprime/Svc/FileManager/Commands.fppi
+/home/chumnap/fprime/Svc/FileManager/Events.fppi
+/home/chumnap/fprime/Svc/FileManager/Telemetry.fppi

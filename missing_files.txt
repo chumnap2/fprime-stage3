@@ -1,0 +1,18 @@
+Files fprime-framework.bak/.git/config and fprime-framework/.git/config differ
+Only in fprime-framework.bak/.git: FETCH_HEAD
+Files fprime-framework.bak/.git/index and fprime-framework/.git/index differ
+Files fprime-framework.bak/.git/logs/HEAD and fprime-framework/.git/logs/HEAD differ
+Only in fprime-framework.bak/.git/logs/refs: heads
+Files fprime-framework.bak/.git/logs/refs/remotes/origin/HEAD and fprime-framework/.git/logs/refs/remotes/origin/HEAD differ
+Files fprime-framework.bak/.git/modules/googletest/index and fprime-framework/.git/modules/googletest/index differ
+Files fprime-framework.bak/.git/modules/googletest/logs/HEAD and fprime-framework/.git/modules/googletest/logs/HEAD differ
+Files fprime-framework.bak/.git/modules/googletest/logs/refs/heads/main and fprime-framework/.git/modules/googletest/logs/refs/heads/main differ
+Files fprime-framework.bak/.git/modules/googletest/logs/refs/remotes/origin/HEAD and fprime-framework/.git/modules/googletest/logs/refs/remotes/origin/HEAD differ
+Only in fprime-framework.bak/.git/objects/pack: pack-441ba3a032b3c33486c5e62333c1907891cf18d1.idx
+Only in fprime-framework.bak/.git/objects/pack: pack-441ba3a032b3c33486c5e62333c1907891cf18d1.pack
+Only in fprime-framework.bak/.git/objects/pack: pack-441ba3a032b3c33486c5e62333c1907891cf18d1.rev
+Only in fprime-framework/.git/objects/pack: pack-5db9db91f29b4433aee0faba99dbc60b41ea976a.idx
+Only in fprime-framework/.git/objects/pack: pack-5db9db91f29b4433aee0faba99dbc60b41ea976a.pack
+Only in fprime-framework/.git/objects/pack: pack-5db9db91f29b4433aee0faba99dbc60b41ea976a.rev
+Only in fprime-framework.bak/.git: ORIG_HEAD
+Only in fprime-framework.bak/.git/refs/heads: devel

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_FprimeFramer.a CMakeFiles/Svc_FprimeFramer.dir/FprimeFramer.cpp.o CMakeFiles/Svc_FprimeFramer.dir/FprimeFramerComponentAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_FprimeFramer.a

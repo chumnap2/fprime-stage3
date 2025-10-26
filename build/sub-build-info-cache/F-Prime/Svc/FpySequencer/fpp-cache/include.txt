@@ -1,0 +1,6 @@
+/home/chumnap/fprime/Svc/FpySequencer/FpySequencerCommands.fppi
+/home/chumnap/fprime/Svc/FpySequencer/FpySequencerDirectives.fppi
+/home/chumnap/fprime/Svc/FpySequencer/FpySequencerEvents.fppi
+/home/chumnap/fprime/Svc/FpySequencer/FpySequencerParams.fppi
+/home/chumnap/fprime/Svc/FpySequencer/FpySequencerStateMachine.fppi
+/home/chumnap/fprime/Svc/FpySequencer/FpySequencerTelemetry.fppi

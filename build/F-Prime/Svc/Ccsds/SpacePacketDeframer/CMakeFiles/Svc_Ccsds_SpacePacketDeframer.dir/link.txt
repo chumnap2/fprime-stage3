@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/Linux/libSvc_Ccsds_SpacePacketDeframer.a CMakeFiles/Svc_Ccsds_SpacePacketDeframer.dir/SpacePacketDeframer.cpp.o CMakeFiles/Svc_Ccsds_SpacePacketDeframer.dir/SpacePacketDeframerComponentAc.cpp.o
+/usr/bin/ranlib ../../../../lib/Linux/libSvc_Ccsds_SpacePacketDeframer.a

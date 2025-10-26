@@ -1,0 +1,10 @@
+/home/chumnap/fprime/Fw/Cmd/Cmd.fpp
+/home/chumnap/fprime/Fw/Com/Com.fpp
+/home/chumnap/fprime/Fw/Log/Log.fpp
+/home/chumnap/fprime/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime/Svc/CmdSequencer/Commands.fppi
+/home/chumnap/fprime/Svc/CmdSequencer/Events.fppi
+/home/chumnap/fprime/Svc/CmdSequencer/Telemetry.fppi
+/home/chumnap/fprime/Svc/Ping/Ping.fpp
+/home/chumnap/fprime/Svc/Sched/Sched.fpp
+/home/chumnap/fprime/Svc/Seq/Seq.fpp

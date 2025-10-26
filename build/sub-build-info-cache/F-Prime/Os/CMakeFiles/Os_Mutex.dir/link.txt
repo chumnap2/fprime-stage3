@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libOs_Mutex.a CMakeFiles/Os_Mutex.dir/Mutex.cpp.o CMakeFiles/Os_Mutex.dir/Condition.cpp.o CMakeFiles/Os_Mutex.dir/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libOs_Mutex.a

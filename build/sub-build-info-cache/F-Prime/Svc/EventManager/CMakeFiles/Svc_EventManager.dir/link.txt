@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_EventManager.a CMakeFiles/Svc_EventManager.dir/EventManager.cpp.o CMakeFiles/Svc_EventManager.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_EventManager.a

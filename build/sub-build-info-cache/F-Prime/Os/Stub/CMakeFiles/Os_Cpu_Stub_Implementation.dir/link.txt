@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libOs_Cpu_Stub_Implementation.a CMakeFiles/Os_Cpu_Stub_Implementation.dir/Cpu.cpp.o CMakeFiles/Os_Cpu_Stub_Implementation.dir/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libOs_Cpu_Stub_Implementation.a

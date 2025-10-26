@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../lib/Linux/libSvc_Subtopologies_ComFprime_ComFprimeConfig.a "CMakeFiles/Svc_Subtopologies_ComFprime_ComFprimeConfig.dir/__/__/__/__/build/F-Prime/Svc/Subtopologies/ComFprime/ComFprimeConfig/ComFprimeSubtopologyConfig.cpp.o" CMakeFiles/Svc_Subtopologies_ComFprime_ComFprimeConfig.dir/__/__/__/__/cmake/empty.cpp.o
+/usr/bin/ranlib ../../../../../lib/Linux/libSvc_Subtopologies_ComFprime_ComFprimeConfig.a
