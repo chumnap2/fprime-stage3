@@ -2,3 +2,6 @@ build-*
 fprime-venv/
 *.tmp
 *.log
+fprime_backups/
+Stage3_valid/sbt/bin/
+*.tar.gz
