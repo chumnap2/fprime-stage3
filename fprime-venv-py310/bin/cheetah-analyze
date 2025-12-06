@@ -1,0 +1,6 @@
+#!/home/chumnap/fprime/fprime-venv-py310/bin/python3.10
+
+from Cheetah import DirectiveAnalyzer
+
+if __name__ == '__main__':
+    DirectiveAnalyzer.main()

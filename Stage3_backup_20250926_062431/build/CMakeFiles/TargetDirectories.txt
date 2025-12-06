@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Stage3/build/CMakeFiles/Stage3_test.dir
-/home/chumnap/fprime/Stage3/build/CMakeFiles/edit_cache.dir
-/home/chumnap/fprime/Stage3/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/home/chumnap/fprime/Stage3/ChibiOS_F4/os/hal/src/hal_spi_v2.inc

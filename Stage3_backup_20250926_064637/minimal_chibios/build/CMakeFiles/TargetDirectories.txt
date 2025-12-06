@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Stage3/minimal_chibios/build/CMakeFiles/minimal_chibios.elf.dir
-/home/chumnap/fprime/Stage3/minimal_chibios/build/CMakeFiles/edit_cache.dir
-/home/chumnap/fprime/Stage3/minimal_chibios/build/CMakeFiles/rebuild_cache.dir

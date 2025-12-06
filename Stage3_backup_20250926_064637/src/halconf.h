@@ -1,2 +1,0 @@
-#define HAL_USE_SERIAL FALSE
-#define HAL_USE_SPI    FALSE

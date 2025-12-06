@@ -1,2 +1,0 @@
-/* Minimal board stub */
-#endif
